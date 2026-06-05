@@ -12,7 +12,7 @@ METRICS_PATH = OUTPUT_DIR / "evaluation_metrics.json"
 REPORT_PATH = OUTPUT_DIR / "classification_report.txt"
 CONFUSION_MATRIX_PATH = OUTPUT_DIR / "confusion_matrix.png"
 
-DATASET_NAME = "ag_news"
+DATASET_NAME = "fancyzhx/ag_news"
 
 TEST_SIZE = 0.2
 RANDOM_STATE = 42
